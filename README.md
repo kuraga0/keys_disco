@@ -4,7 +4,7 @@ Works only on Linux. Systemd brightnessctl is required.
 
 Run with
 ``` python 
-git clone https://github.com/Piola-l/keys_disco.git 
+git clone https://github.com/kuraga0/keys_disco.git 
 cd keys_disco
 python3 main.py --mode 1
 ```
